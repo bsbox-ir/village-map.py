@@ -1,2 +1,2 @@
-# village-map.py
-The complete source code of the Village Server by https://github.com/EraOSBeta
+# village-svr.py
+The complete source code of the Village Server by <a href="https://github.com/EraOSBeta" rel="nofollow">EraOSBeta</a>
